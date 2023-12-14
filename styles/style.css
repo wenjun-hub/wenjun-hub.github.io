@@ -33,6 +33,10 @@ li {
 }
 
 table, tbody, th, td {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 3px;
+  padding-right: 4px;
   border: 1px solid black;
   border-collapse: collapse;
 }
