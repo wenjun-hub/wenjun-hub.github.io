@@ -22,12 +22,12 @@ h1 {
   margin: 0;
   padding: 20px 0;
   color: #00539f;
-  text-shadow: 1px 1px 1px black;
+  text-colour: 1px, 1px, 1px black;
 }
 h2 {
   margin: 0;
   padding: 20px 0;
-  text-shadow: 1px 1px 1px black;
+  colour:  black;
 }
 
 p,
